@@ -156,6 +156,13 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    // Youtube API
+    {
+      const API_KEY = 'AIzaSyAnCLWkC2mdLUjYIHkLwowpylsK22eF0Pw';
+      const CLIENT_ID = '444254048818-ftqg384f68m5quk25dbgmejsqch8ao0c.apps.googleusercontent.com';
+
+    }
+
 
 // Последняя строчка блока
 });
